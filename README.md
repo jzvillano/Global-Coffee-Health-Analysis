@@ -12,7 +12,9 @@
 <img width="1920" height="1080" alt="Heart Rate vs Coffee Intake" src="https://github.com/user-attachments/assets/31d25988-0e2f-4db7-b72a-52a6dab4534e" />
 <img width="1920" height="1080" alt="Age vs Coffee Intake" src="https://github.com/user-attachments/assets/533c63c0-820d-4304-a4bf-7b03c46aaf7d" />
 <img width="1920" height="1080" alt="Data Cleaning" src="https://github.com/user-attachments/assets/1f811991-0840-4637-8680-66b72e8fb747" />
-<img width="1920" height="1080" alt="Measure Model Performance" src="https://github.com/user-attachments/assets/7c095923-d587-4e7c-98e0-6e0bd9fe58ee" />
+<img width="1920" height="1080" alt="Data Cleaning Regression" src="https://github.com/user-attachments/assets/42fb3715-498a-41ee-bb14-81d5fb29fa26" />
+<img width="1465" height="825" alt="Measure Model Performance" src="https://github.com/user-attachments/assets/e4ea0af5-ba74-4ad7-a2f0-b7c7acc65db7" />
+<img width="1470" height="827" alt="Regression model predictions" src="https://github.com/user-attachments/assets/11716483-7324-4060-a559-7653916aae81" />
 <img width="1920" height="1080" alt="Decision Tree   Forest Tree Model" src="https://github.com/user-attachments/assets/49d868c9-8836-4ddd-a3c9-a52762445917" />
 <img width="1920" height="1080" alt="Ridge   MLP Model" src="https://github.com/user-attachments/assets/837b44ba-5785-48c9-9337-eb8cf2f89f20" />
 <img width="1920" height="1080" alt="Support Vector Classifier" src="https://github.com/user-attachments/assets/fd3cc627-ad32-40eb-be38-1f1a1c0782d3" />
